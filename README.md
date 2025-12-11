@@ -31,11 +31,10 @@ A FastAPI + MongoDB backend for managing multi-tenant organizations with secure 
 ##  Setup Instructions
 
 ### 1. Clone the repo
-
 git clone https://github.com/Tarun30007/org-mgmt-service.git
 cd org-mgmt-service
 
-**### 2. Create and activate virtual environment
+2. Create and activate virtual environment
 python -m venv .venv
 .\.venv\Scripts\activate
 
