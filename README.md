@@ -34,21 +34,21 @@ A FastAPI + MongoDB backend for managing multi-tenant organizations with secure 
 git clone https://github.com/Tarun30007/org-mgmt-service.git
 cd org-mgmt-service
 
-2. Create and activate virtual environment
+**2. Create and activate virtual environment**
 python -m venv .venv
 .\.venv\Scripts\activate
 
-3. Install dependencies
+**3. Install dependencies**
 pip install -r requirements.txt
 
-4. Run the server
+**4. Run the server**
 uvicorn main:app --reload
 
-API Documentation
+**API Documentation**
 Visit http://localhost:8000/docs for Swagger UI.
 
-License
-This project is licensed under the Apache 2.0 License.
+**License
+This project is licensed under the Apache 2.0 License.**
 
 
 
