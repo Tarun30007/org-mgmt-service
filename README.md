@@ -53,6 +53,10 @@ uvicorn main:app --reload
 
 Visit http://localhost:8000/docs for Swagger UI.
 
+# ScreenShot
+
+![Working Screenshot](Screenshot 2025-12-12 011225.png)
+
 **License
 This project is licensed under the Apache 2.0 License.**
 
