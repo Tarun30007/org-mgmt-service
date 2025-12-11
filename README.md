@@ -32,7 +32,6 @@ A FastAPI + MongoDB backend for managing multi-tenant organizations with secure 
 
 ### 1. Clone the repo
 
-```bash
 git clone https://github.com/Tarun30007/org-mgmt-service.git
 cd org-mgmt-service
 
